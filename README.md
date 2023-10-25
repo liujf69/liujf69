@@ -3,14 +3,13 @@
 - 😄 My research interests include deep learning, model acceleration, high-performance computing and backend development.
 - 🔭 Mail: liujf69@mail2.sysu.edu.cn
 - ⚡ Note Blog: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869)
+
 <p align="center">
-<a> 
-<img align="center" 
+<a> <img align="center" 
   src="https://github-readme-stats.vercel.app/api?username=liujf69&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" 
   alt="liujf69" /> 
 </a> |
-<a> 
-  <img align="center" 
+<a> <img align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=liujf69&layout=compact&theme=buefy&hide_border=true" /> 
 </a> 
 </p>
