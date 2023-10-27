@@ -1,6 +1,6 @@
 ### Hi! 👋
-- 🌱 I’m currently studying at the School of Intelligent Systems Engineering, Sun Yat-sen University.
-- 😄 My research interests include deep learning, model acceleration, high-performance computing and backend development.
+- 🌱 I’m currently studying at the School of Intelligent Systems Engineering, **Sun Yat-sen University**.
+- 😄 My research interests include **Deep Learning**, **Model Acceleration**, **High-Performance Computing** and **Backend Development**.
 - 🔭 Mail: liujf69@mail2.sysu.edu.cn
 - ⚡ Note Blog: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869)
 
