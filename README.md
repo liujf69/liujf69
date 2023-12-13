@@ -4,9 +4,11 @@
 - 🔭 **Mail**: liujf69@mail2.sysu.edu.cn
 - ⚡ **Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869)
 <!--
-- 👯 **Experience**:
+- 👯 **Experience**:  
+&emsp; - Tencent AI Lab (Intern)  
+&emsp; - Civicint Algorithmic Group (Intern)
 -->
-  
+
 <p align="center">
 <a> <img align="center" 
   src="https://github-readme-stats.vercel.app/api?username=liujf69&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" 
