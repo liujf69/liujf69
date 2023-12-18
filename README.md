@@ -3,11 +3,10 @@
 - 😄 My research interests include **Deep Learning**, **Model Acceleration**, **High-Performance Computing** and **Backend Development**.
 - 🔭 **Mail**: liujf69@mail2.sysu.edu.cn
 - ⚡ **Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869)
-<!--
 - 👯 **Experience**:  
 &emsp; -✨Tencent AI Lab (Intern)✨  
 &emsp; -✨Civicint Algorithmic Group (Intern)✨
--->
+
 
 <p align="center">
 <a> <img align="center" 
