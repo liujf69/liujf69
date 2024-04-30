@@ -4,8 +4,8 @@
 - 🔭 **Mail**: liujf69@gmail.com
 - ⚡ **Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869)
 - 👯 **Experience**:  
-&emsp; -✨Tencent AI Lab (Intern)✨  
-&emsp; -✨Civicint Algorithmic Group (Intern)✨
+&emsp; -✨**Tencent** AI Lab (Intern)✨  
+&emsp; -✨**Civicint** Algorithmic Group (Intern)✨
 <!--&emsp; -✨Meituan Takeaway Algorithmic Group (Intern)✨  -->
 
 <p align="center">
