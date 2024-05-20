@@ -3,10 +3,10 @@
 - 😄 My research interests include **Deep Learning**, **Model Acceleration** and **Backend Development**.
 - 🔭 **Mail**: liujf69@gmail.com
 - ⚡ **Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869) <!--- 💬 **Google Scholar**: [Jinfu Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=jdOJpl0AAAAJ)-->
-- 👯 **Experience**:  
+- 👯 **Experience**:
+&emsp; -✨**Meituan** Takeaway Algorithmic Group (Intern)✨
 &emsp; -✨**Tencent** AI Lab (Intern)✨  
 &emsp; -✨**Civicint** Algorithmic Group (Intern)✨
-<!--&emsp; -✨Meituan Takeaway Algorithmic Group (Intern)✨  -->
 
 <p align="center">
 <a> <img align="center" 
