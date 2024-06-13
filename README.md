@@ -6,7 +6,7 @@
 - 👯 **Experience**:  
 &emsp; -✨**Meituan** Takeaway Algorithmic Group (Intern)✨  
 &emsp; -✨**Tencent** AI Lab (Intern)✨  
-&emsp; -✨**Civicint** Algorithmic Group (Intern)✨  
+&emsp; -✨**Civicint** CV Algorithmic Group (Intern)✨  
 
 <p align="center">
 <a> <img align="center" 
