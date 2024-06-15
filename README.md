@@ -1,6 +1,6 @@
 ### Hi! 👋
 - 🌱 I’m currently studying at the **Sun Yat-sen University** as a Master.
-- 😄 My research interests include **Deep Learning**, **Model Acceleration** and **Backend Development**.
+- 😄 My research interests include **Video Understanding**, **Video/Motion Generation** and **Model Acceleration**.
 - 🔭 **Mail**: liujf69@gmail.com
 - ⚡ **Study Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869) <!--- 💬 **Google Scholar**: [Jinfu Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=jdOJpl0AAAAJ)-->
 - 👯 **Experience**:  
