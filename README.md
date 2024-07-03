@@ -5,7 +5,7 @@
 - 🔭 **Homepage**: https://liujf69.github.io
 - ⚡ **Study Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869) <!--- 💬 **Google Scholar**: [Jinfu Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=jdOJpl0AAAAJ)-->
 - 👯 **Experience**:  
-&emsp; -✨**Meituan** Takeaway Algorithmic Group (Intern)✨  
+&emsp; -✨**Meituan** WaiMai Algorithmic Group (Intern)✨  
 &emsp; -✨**Tencent** AI Lab (Intern)✨  
 &emsp; -✨**Civicint** CV Algorithmic Group (Intern)✨  
 
