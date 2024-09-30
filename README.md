@@ -1,5 +1,5 @@
 ### Hi! 👋
-- 🌱 I’m currently studying at the **Sun Yat-sen University**.
+- 🌱 My name is Jinfu Liu.
 - 😄 My research interests include **Video Understanding**, **Video/Motion Generation** and **Model Acceleration**.
 - 🔭 **Mail**: liujf69@gmail.com
 - 🔭 **Homepage**: https://liujf69.github.io
