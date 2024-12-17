@@ -1,13 +1,15 @@
+<!--
 ### Hi! 👋
 - 🌱 My name is Jinfu Liu.
 - 😄 My research interests include **Video Understanding**, **Video/Motion Generation** and **Model Acceleration**.
 - 🔭 **Mail**: liujf69@gmail.com
 - 🔭 **Homepage**: https://liujf69.github.io
-- ⚡ **Study Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869) <!--- 💬 **Google Scholar**: [Jinfu Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=jdOJpl0AAAAJ)-->
+- ⚡ **Study Note Blog**: [https://blog.csdn.net/weixin_43863869](https://blog.csdn.net/weixin_43863869) 
 - 👯 **Experience**:  
 &emsp; -✨**Meituan** WaiMai Algorithmic Group (Intern)✨  
 &emsp; -✨**Tencent** AI Lab (Intern)✨  
 &emsp; -✨**Civicint** CV Algorithmic Group (Intern)✨  
+-->
 
 <p align="center">
 <a> <img align="center" 
